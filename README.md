@@ -1,5 +1,5 @@
 # 概要
-**このレポジトリはこの行以外「n-clicker」と同じ内容です。** ブロック回避版です。  
+**このレポジトリはこの行以外「n-clicker」と同じ内容です。**  
 原作 [長押しクリッカー！#all #games](https://scratch.mit.edu/projects/1054407379/)  
 使い方 [instructions.md](instructions.md)
 
